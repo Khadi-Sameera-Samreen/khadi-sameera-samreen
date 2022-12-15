@@ -1,0 +1,5 @@
+numbers=input("Enter sequence of numbers:")
+list=numbers.split(",")
+tuple=tuple(list)
+print(list)
+print(tuple)
